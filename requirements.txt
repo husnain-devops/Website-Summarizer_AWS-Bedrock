@@ -1,0 +1,6 @@
+streamlit==1.23.1
+beautifulsoup4==4.12.3
+requests==2.31.0
+boto3==1.33.13
+selenium==4.11.2
+webdriver-manager==4.0.1
