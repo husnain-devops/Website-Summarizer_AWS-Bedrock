@@ -175,3 +175,4 @@ The application uses Streamlit to create a responsive web interface with the fol
 
 [Rest of the README remains the same...] # Website-Summarizer_AWS-Bedrock
 # Website-Summarizer_AWS-Bedrock
+# Website-Summarizer_AWS-Bedrock
